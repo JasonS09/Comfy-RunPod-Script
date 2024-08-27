@@ -26,6 +26,7 @@ NODES=(
     "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
     "https://github.com/Kosinkadink/ComfyUI-AnimateDiff-Evolved"
     "https://github.com/jags111/efficiency-nodes-comfyui"
+    "https://github.com/ciri/comfyui-model-downloader"
 )
 
 CHECKPOINT_MODELS=(
